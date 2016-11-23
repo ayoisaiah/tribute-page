@@ -1,4 +1,4 @@
-# Markdown Previewer
+# Tribute Page
 
 This is the first project for Free Code Camp's Front-End certificate.
 
@@ -8,8 +8,9 @@ Completed On: 19 May 2016
 
 Build an app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/NNvBQW/.
 
-**Rule #1:** Don't look at the example project's code. Figure it out for yourself.
-**Rule #2:** Fulfill the below user stories. Use whichever libraries you need. Give it your own personal style.
+**Rule #1**: Don't look at the example project's code. Figure it out for yourself.
+
+**Rule #2**: Fulfill the below user stories. Use whichever libraries you need. Give it your own personal style.
 
 ## User Stories
 
